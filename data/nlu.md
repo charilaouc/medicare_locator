@@ -53,6 +53,7 @@
 - talk to me
 - who is your favourite robot?
 - can you help me to build a bot
+- are you online?
 
 ## intent:goodbye
 - Bye
