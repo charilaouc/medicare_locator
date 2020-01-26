@@ -54,6 +54,7 @@
 - who is your favourite robot?
 - can you help me to build a bot
 - are you online?
+- h
 
 ## intent:goodbye
 - Bye
